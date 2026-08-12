@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python bytecode/caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+env/
+venv/
+
+# Node/Vite build and dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
