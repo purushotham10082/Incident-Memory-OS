@@ -117,4 +117,4 @@ Open **`http://localhost:5173`** in your browser. Expand the **Demo Wizard** in 
 - [System Architecture](file:///c:/Users/purus/OneDrive/Desktop/hackwith/docs/architecture.md)
 - [Pitch Script](file:///c:/Users/purus/OneDrive/Desktop/hackwith/docs/pitch.md)
 - [60-Second Demo Script](file:///c:/Users/purus/OneDrive/Desktop/hackwith/docs/demo-script.md)
-- [Judging Criteria](file:///c:/Users/purus/OneDrive/Desktop/hackwith/docs/judging.md)
+
